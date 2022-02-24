@@ -7,3 +7,5 @@ This repository is built step by step in the tutorial.
 This line was edited
 
 It now includes the steps from Git hub
+
+added new line
